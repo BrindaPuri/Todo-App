@@ -1,12 +1,23 @@
 ## API Endpoints
 
-GET /tasks: Retrieve all tasks.
+These screenshots were taken from POSTMAN
 
-GET /tasks/{id}: Retrieve a specific task by ID.
+GET /tasks: Retrieve all tasks.
+![](GET.png)
 
 POST /tasks: Create a new task.
+![](POST.png)
 
 PATCH /tasks/{id}: Update an existing task by ID.
+![](PATCH.png)
 
-## Screen Shots from Postman
-![](image.png)
+GET /tasks/{id}: Retrieve a specific task by ID.
+![](GETi.png)
+
+
+
+
+
+
+
+
