@@ -12,7 +12,7 @@ PATCH /tasks/{id}: Update an existing task by ID.
 ![](PATCH.png)
 
 GET /tasks/{id}: Retrieve a specific task by ID.
-![]("RestAPI/GETi.png")
+![]("GETi.png")
 
 
 
